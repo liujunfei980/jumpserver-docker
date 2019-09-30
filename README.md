@@ -1,7 +1,7 @@
 ## Jumpserver Docker-Compose
 
 ```
-$ git clone https://github.com/wojiushixiaobai/docker-compose.git
+$ git clone https://github.com/lvelvis/jumpserver-docker.git
 $ cd docker-compose
 $ cat .env
 $ docker-compose up
